@@ -23,6 +23,3 @@ Tracks user locations and displays them as a heat map.
 3. Restore NuGet packages (`sqlite-net-pcl`, `Microsoft.Maui.Controls.Maps`)
 4. Run on your device or emulator
 
-## Screenshots
-
-![App Screenshot](../screenshot.png)
