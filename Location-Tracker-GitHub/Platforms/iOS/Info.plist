@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    ...
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app tracks your location to display heat maps.</string>
+    ...
+</dict>
+</plist>
